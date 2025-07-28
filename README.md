@@ -9,7 +9,7 @@
 
 ## 🧠 What I Do
 
-I build reliable, production-ready AI systems that span:
+I build reliable, production-ready AI systems:
 
 - 🔍 Retrieval-Augmented Generation (RAG) using LangChain, LlamaIndex, pgvector
 - 🎯 Vision Systems (YOLOv8, 3D pose estimation, aerial detection, stereo vision)
@@ -49,7 +49,7 @@ I build reliable, production-ready AI systems that span:
 ---
 
 ### **AI Backend Engineer**  
-**Serveden.ai** — *Feb 2025 – March 2025*
+**Serveden LLC** — *Feb 2025 – March 2025*
 - Built model-agnostic serving APIs with dynamic input processors and model metadata
 - Packaged models using BentoML, deployed with ECS and AWS CodeBuild
 - Enabled concurrent AI model hosting with scalable backend integration
@@ -60,7 +60,7 @@ I build reliable, production-ready AI systems that span:
 
 - Delivered RAG pipelines, LLM APIs, vision-based trackers & smart inference services
 - Built secure microservices, dockerized deployments, GPU-based inference APIs
-- Over 30+ successful contracts with consistent 5⭐ reviews
+- Successful contracts with consistent 5⭐ reviews
 
 ---
 
