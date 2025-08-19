@@ -11,16 +11,16 @@
 
 I build reliable, production-ready AI systems:
 
-- 🔍 Retrieval-Augmented Generation (RAG) using LangChain, LlamaIndex, pgvector
-- 🎯 Vision Systems (YOLOv8, 3D pose estimation, aerial detection, stereo vision)
-- 🗣️ LLM-based NLP (Flan-T5, LLaMA, GPT fine-tuning, entity extraction, email classification)
-- ⚙️ MLOps & Model Deployment (FastAPI, Docker, ECS, BentoML, Kubernetes)
-- 🧠 Backend AI Services (Django, scalable APIs, real-time inference servers)
+- 🔍 Retrieval-Augmented Generation (RAG) using LangChain, LlamaIndex, pgvector  
+- 🎯 Vision Systems (YOLOv8, 3D pose estimation, aerial detection, stereo vision)  
+- 🗣️ LLM-based NLP (Flan-T5, LLaMA, GPT fine-tuning, entity extraction, email classification)  
+- ⚙️ Automated ML Workflows (Vertex AI pipelines, BigQuery, Terraform, CI/CD with Cloud Build & GitHub Actions)  
+- 🧠 Backend AI Services (Django, scalable APIs, real-time inference servers)  
 
 ---
 
-## 🧑‍💼 Professional Experience
 
+## 🧑‍💼 Professional Experience
 ### **AI Software Developer**  
 **Centre of AI and Computing (CENTAIC), NASTP** — *June 2025 – Present*
 - Deployed computer vision systems for aerial analytics and defense using YOLOv8, Jetson
@@ -53,6 +53,7 @@ I build reliable, production-ready AI systems:
 - Built model-agnostic serving APIs with dynamic input processors and model metadata
 - Packaged models using BentoML, deployed with ECS and AWS CodeBuild
 - Enabled concurrent AI model hosting with scalable backend integration
+- Automated deployment workflows with Terraform + CI/CD pipelines (adaptable to GCP Cloud Build, Vertex AI)  
 
 ---
 
@@ -87,9 +88,9 @@ I build reliable, production-ready AI systems:
 | Computer Vision  | YOLOv8, OpenCV, DeepSORT, DETR, stereo vision |
 | NLP / LLM        | LangChain, Flan-T5, LLaMA, GPT, Transformers |
 | Backend APIs     | FastAPI, Django, Flask, Streamlit |
-| Deployment       | Docker, Kubernetes, BentoML, ECS, CodeBuild |
+| Deployment       | Docker, Kubernetes, BentoML, ECS, CodeBuild, Terraform, Vertex AI, Cloud Build, GitHub Actions |
 | Databases        | Postgres, pgvector, MongoDB, Elasticsearch |
-| Cloud            | AWS, GCP, Azure |
+| Cloud            | AWS (SageMaker, ECS, CodeBuild), GCP (Vertex AI, BigQuery, Cloud Storage, Dataflow, IAM, Dataplex), Azure (Virtual Machines, Blob Storage, AzureML)|
 | Tools & Infra    | Git, NGINX, Bash, Shell, CI/CD pipelines |
 | Dev Math         | Calculus, Linear Algebra, Probability, Stats |
 
@@ -111,9 +112,3 @@ I build reliable, production-ready AI systems:
 - **Data Visualization with Python**
 
 ---
-
-## 🤝 Let’s Connect
-
-- 💼 [Upwork](https://www.upwork.com/freelancers/~01c565230a64ece744)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hasaan--ahmad/)
-- 📬 hassaan25281@gmail.com
