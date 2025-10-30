@@ -57,7 +57,7 @@ I build reliable, production-ready AI systems:
 
 ---
 
-## 🌟 Freelance Highlights ([Upwork](https://www.upwork.com/freelancers/~01c565230a64ece744))
+## 🌟 Freelance Highlights ([Upwork](https://www.upwork.com/freelancers/aiengineerhassaan))
 
 - Delivered RAG pipelines, LLM APIs, vision-based trackers & smart inference services
 - Built secure microservices, dockerized deployments, GPU-based inference APIs
