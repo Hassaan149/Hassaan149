@@ -1,9 +1,9 @@
 # 👋 Hey there, I’m Hassaan Ahmad.  
-**AI Backend Engineer | Computer Vision & NLP Specialist**
+**Full Stack AI Engineer | Computer Vision & NLP Specialist**
 
 💼 **Upwork Top Rated** | 🏆 100% Job Success  
 🧠 3+ years building and deploying scalable AI/ML systems  
-🌍 Based in Islamabad, Pakistan — open to freelance, full-time remote, and consulting roles
+🌍 Open to freelance, full-time remote, and consulting roles
 
 ---
 
@@ -23,7 +23,7 @@ I build reliable, production-ready AI systems:
 ## 🧑‍💼 Professional Experience
 ### **AI Software Developer**  
 **Centre of AI and Computing (CENTAIC), NASTP** — *June 2025 – Present*
-- Deployed computer vision systems for aerial analytics and defense using YOLOv8, Jetson
+- Deployed computer vision systems for AI assisted monitoring system using YOLOv8, Jetson
 - Built NLP pipelines for secure document parsing using transformer models
 - Scaled inference APIs using FastAPI for GPU-accelerated deployment
 - Led Jetson-based Edge AI deployments and real-time video stream analytics
@@ -32,7 +32,7 @@ I build reliable, production-ready AI systems:
 
 ### **Deep Learning Engineer**  
 **QLU.ai / DNNae Inc.** — *Jan 2024 – Mar 2024*
-- Developed ResNet-based ethnicity classifier from profile images
+- Developed ResNet-based demographic attribute classification models from profile images
 - Engineered executive profile ranking models using NLP and statistical scoring
 - Built semantic search systems to extract relevant answers from large corpora
 - Oversaw A/B evaluation using AUC, Precision, Recall
