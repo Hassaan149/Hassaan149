@@ -103,7 +103,7 @@ I build reliable, production-ready AI systems:
 
 ## 🎓 Education & Certifications
 
-- **MS Data Science** – FAST Islamabad (2024)
+- **MS Data Science** – FAST Islamabad (2025)
 - **BS Computer Science** – COMSATS Islamabad (2022)
 - **TensorFlow Developer Certificate**
 - **AWS Cloud Technical Essentials**
